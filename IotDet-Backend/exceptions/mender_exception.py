@@ -1,0 +1,2 @@
+class MenderException(Exception):
+    pass

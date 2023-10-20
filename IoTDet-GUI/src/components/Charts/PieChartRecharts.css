@@ -1,0 +1,5 @@
+.disable-click path {
+    outline: none;
+    stroke-width: 2;
+
+}
