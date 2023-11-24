@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <div align="center">
-<a href="https://github.com/JuananMtez/NeuronLab">
+<a href="https://github.com/JuananMtez/IotDet">
     <img src="https://raw.githubusercontent.com/JuananMtez/IoTDet/main/img/IoTDetLogo.png" alt="IoTDet" width="300" height="350">
 
   </a>
