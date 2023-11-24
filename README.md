@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/JuananMtez/IoTDet/main/img/IoTDetLogo.png" alt="IoTDet" width="300" height="350">
 
   </a>
-  <h3 align="center">IoTDet Framework</h3>
+  
   <p align="center">
     Framework for IoT scenario management and malware detection
   </p>
