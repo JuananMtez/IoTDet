@@ -2,10 +2,10 @@
 <br/>
 <div align="center">
 <a href="https://github.com/JuananMtez/IotDet">
-    <img src="https://raw.githubusercontent.com/JuananMtez/IoTDet/main/img/IoTDetLogo.png" alt="IoTDet" width="300" height="350">
+    <img src="https://raw.githubusercontent.com/JuananMtez/IoTDet/main/img/logo2.png" alt="IoTDet" width="300" height="300">
 
   </a>
-  
+  <h3>IoTDet</h3>
   <p align="center">
     Framework for IoT scenario management and malware detection
   </p>
