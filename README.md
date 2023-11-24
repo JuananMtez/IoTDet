@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/JuananMtez/NeuronLab">
-    <img src="https://raw.githubusercontent.com/JuananMtez/IoTDet/main/img/IoTDetLogo.png" alt="IoTDet" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/JuananMtez/IoTDet/main/img/IoTDetLogo.png" alt="IoTDet" width="300" height="350">
 
   </a>
   <h3 align="center">NeuronLab Framework</h3>
